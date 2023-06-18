@@ -65,7 +65,7 @@
             if (continuar)
             {
                 Console.Write("¿Desea realizar otro cálculo? Si(1) | No(0): ");
-                string respuesta = Console.ReadLine();4
+                string respuesta = Console.ReadLine();
 
                 continuar = respuesta == "1";
             }
